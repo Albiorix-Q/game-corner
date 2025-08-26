@@ -7,7 +7,7 @@ export default function Home() {
     <div>
       <main className={styles.main}>
         <div className={styles.ctas}>
-          <a href="/cryptid">Go to Cryptid</a>
+          <Link href="/cryptid">Go to Cryptid</Link>
         </div>
       </main>
       <footer className={styles.footer}>
